@@ -1,1 +1,1 @@
-# Image-Caption-Generator
+# Neural Image Caption Generator
